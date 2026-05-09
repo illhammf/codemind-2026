@@ -1,4 +1,5 @@
-# CODE MIND 2026
+# CODE MIND 2026 - Minggu Pertama
+### 09 Mei 2026
 
 ---
 
