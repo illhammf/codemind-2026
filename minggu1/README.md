@@ -117,7 +117,7 @@ Jadi:
 - umur 20 → boleh
 - umur 15 → tidak boleh
 
-### B3. Menentukan Ganjil atau Genap
+## B3. Menentukan Ganjil atau Genap
 Jika habis dibagi 2 → "Genap"
 Jika tidak → "Ganjil"
 ```sh
