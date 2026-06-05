@@ -1,13 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int hitungTotal(int harga, int jumlah) {
+int hitungTotal(int harga, int jumlah)
+{
 
     return harga * jumlah;
-
 }
 
-int main() {
+int main()
+{
 
     int harga, jumlah;
 

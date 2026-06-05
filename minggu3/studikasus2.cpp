@@ -1,17 +1,21 @@
 #include <iostream>
 using namespace std;
 
-void ganjilGenap(int angka) {
+void ganjilGenap(int angka)
+{
 
-    if (angka % 2 == 0) {
+    if (angka % 2 == 0)
+    {
         cout << "Genap";
-    } else {
+    }
+    else
+    {
         cout << "Ganjil";
     }
-
 }
 
-int main() {
+int main()
+{
 
     int angka;
 
