@@ -1,11 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int kuadrat(int x){
+int kuadrat(int x)
+{
     return x * x;
 }
 
-int main(){
+int main()
+{
 
     int hasil = kuadrat(2) + kuadrat(3);
 

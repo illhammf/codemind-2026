@@ -1,11 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int kali() {
+int kali()
+{
     return 4 * 5;
 }
 
-int main() {
+int main()
+{
 
     cout << kali();
 

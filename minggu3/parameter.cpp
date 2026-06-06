@@ -1,15 +1,15 @@
 #include <iostream>
 using namespace std;
 
-void salam(string nama, int umur) {
-    cout << "Selamat Datang " << nama << " yang berumur " << umur << " tahun" << endl;
+void nama(string nama, int umur, string alamat) {
+    cout << "Nama Saya " << nama << " dan umur saya " << umur << " tahun, " << alamat << endl;
 }
 
 int main() {
-    salam("Ilham", 20);
-    salam("Naufal", 19);
-    salam("Alif", 21);
+    nama("Ilham", 20, "Jakarta");
+    nama("Nopal", 19, "Bandung");
+    nama("Alif", 25, "Surabaya");
 
-    // Dengan menggunakan parameter, kita bisa membuat function yang lebih fleksibel
-    // Kita bisa mengirimkan data yang berbeda-beda ke dalam function
+    return 0;
 }
+

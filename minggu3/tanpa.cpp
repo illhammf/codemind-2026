@@ -6,6 +6,10 @@ void welcome() {
     cout << "Selamat Datang Yaa" <<endl;
 }
 
+void nama() {
+    cout << "Nama Saya Code Mind" << endl;
+}
+
 int main() {
     
     // Tanpa Function
@@ -17,6 +21,11 @@ int main() {
     welcome();
     welcome();
     welcome();
+
+    nama();
+    nama();
+    nama();
+
     // Daripada menulis kode yang sama berkali-kali, kita cukup membuat satu function lalu memanggilnya
     return 1;
 }
