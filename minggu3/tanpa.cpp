@@ -18,4 +18,5 @@ int main() {
     welcome();
     welcome();
     // Daripada menulis kode yang sama berkali-kali, kita cukup membuat satu function lalu memanggilnya
+    return 1;
 }

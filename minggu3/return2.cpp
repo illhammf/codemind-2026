@@ -11,7 +11,7 @@ int main()
 
     int hasil;
 
-    hasil = tambah(10, 5);
+    hasil = tambah(10.5, 5.5);
 
     cout << hasil;
 
