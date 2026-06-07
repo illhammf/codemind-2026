@@ -10,7 +10,7 @@ void garis()
 {
     cout << "====================================================\n";
 }
-
+ 
 // Fungsi utama program
 int main()
 {
