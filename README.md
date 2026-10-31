@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🚀 CODE HUB 2026
 ### *Code Your Logic, Shape Your Future*
@@ -7,7 +7,8 @@
 
 ---
 
-### 💡 Organized by
+### Organized by
+
 **Department of Education & Development Insight**  
 FASILKOM UEU Tangerang
 
@@ -15,159 +16,75 @@ FASILKOM UEU Tangerang
 
 ---
 
-# 📖 About Code Hub
+# About CodeMind 2026
 
-**Code Hub 2026** is a structured programming development ecosystem designed for Informatics students to strengthen logical thinking, problem solving, and practical coding skills.
+CODE MIND 2026 is an intensive programming learning class designed to help Informatics students strengthen their programming fundamentals, logical thinking, algorithmic understanding, and problem-solving skills.
 
-This program is not only about learning syntax.  
-It is about learning how to think like a programmer.
+This repository serves as an educational archive containing learning materials, practical exercises, source code, and documentation from the completed CODE MIND 2026 activities.
 
-> “Good programmers don't only write code.  
-> They solve problems with logic.”
+## Learning Materials
 
----
+| Meeting | Topic | Documentation |
+|---|---|---|
+| Week 1 | Programming Logic and Conditional Statements | [Week 1](./minggu1/README.md) |
+| Week 2 | Looping and Arrays | [Week 2](./minggu2/README.md) |
+| Week 3 | Functions | [Week 3](./minggu3/README.md) |
 
-# 🌟 Main Theme
+## Learning Objectives
 
-## ✨ Code Your Logic, Shape Your Future
+Through CODE MIND 2026, participants were introduced to:
 
-Computer Science students must understand more than just programming syntax.
+- Programming fundamentals.
+- Logical thinking and algorithms.
+- Conditional statements.
+- Looping and arrays.
+- Functions and parameters.
+- Return values and basic problem solving.
 
-They need:
-- logical thinking
-- structured problem solving
-- analytical mindset
-- implementation skills
+## Development Environment
 
-Because strong logic is the foundation of every great developer.
+The practical exercises use C++.
 
----
+Recommended tools:
 
-# 🧠 Programs Inside CODE HUB
+- Visual Studio Code
+- GCC / MinGW Compiler
+- C/C++ Extension for Visual Studio Code
 
-## 1️⃣ CODE MIND
-### *Fundamental Structure Data Intensive Class*
+See [SETUP.md](./SETUP.md) for environment setup and compilation instructions.
 
-An intensive learning class focused on:
-- programming fundamentals
-- data structures
-- algorithmic thinking
-- problem solving
+## Repository Structure
 
-### 📌 Learning Topics
-- Fundamental Data Structures
-- Array & Linked List
-- Stack & Queue
-- Tree & Searching
-- Basic Big-O Complexity
-- Case Study Problem Solving
-
-### 🎯 Learning Methods
-- 30% Conceptual Theory
-- 40% Live Coding & Practice
-- 30% Quiz & Interactive Evaluation
-
----
-
-## 2️⃣ CODE CLASH
-### *Project-Based Coding Competition*
-
-A team-based coding competition where participants implement everything they learned from Code Mind.
-
-### 🏆 Assessment Focus
-- Logic Accuracy
-- Algorithm Efficiency
-- Code Structure
-- Team Collaboration
-- Presentation Skills
-
----
-
-## 3️⃣ CODE SUMMIT
-### *Technology Insight & Industry Exposure Seminar*
-
-A technology seminar designed to expand students' perspectives about:
-- current tech trends
-- industry mindset
-- career opportunities
-- professional development
-
----
-
-# 🎯 Main Goals
-
-✅ Strengthen programming logic  
-✅ Improve problem-solving skills  
-✅ Build collaborative learning culture  
-✅ Encourage active learning & confidence  
-✅ Prepare students for academic & industry challenges
-
----
-
-# 🔥 Why CODE HUB Matters?
-
-Because coding is not only about:
-```cpp
-cout << "Hello World";
+```text
+codemind-2026/
+├── README.md
+├── SETUP.md
+├── CONTRIBUTING.md
+├── minggu1/
+├── minggu2/
+└── minggu3/
 ```
 
-Coding is about:
-- how you analyze problems
-- how you design solutions
-- how you think efficiently
-- how you communicate logic
+## Contributing
 
----
+Contributions that improve documentation, code readability, and educational resources are welcome.
 
-# 🛠 Tech & Learning Environment
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting changes.
 
-```txt
-Language       : Depends on academic curriculum
-Learning Type  : Intensive & Interactive
-Focus          : Logic • Algorithm • Problem Solving
-Audience       : Computer Science Students
-```
+## Repository Scope
 
----
+This repository documents the completed CODE MIND 2026 learning activities.
 
-# 🌐 Philosophy
-
-> “Learn the logic first.  
-> Syntax can always follow later.”
-
----
-
-# 🤝 Collaboration & Community
-
-CODE HUB is designed to create:
-- collaborative learning
-- healthy competition
-- technology exploration
-- future-ready students
-
-Because the future belongs to problem solvers.
+The original learning context and educational materials are preserved as part of the program archive.
 
 ---
 
 <div align="center">
 
-# 🚀 Keep Learning. Keep Building.
+# CODE HUB 2026
 
-### CODE HUB 2026
+### Code Your Logic, Shape Your Future
 
-**Code Your Logic, Shape Your Future**
-
----
-
-## Pull Shark Testing 🦈
-
----
-
-## Pull Shark Level 2 🦈
-
----
-
-## Testing Pair Extraordinaire
-tanggal 2 Juni 2026
+*Learn the logic first. Syntax can always follow later.*
 
 </div>
