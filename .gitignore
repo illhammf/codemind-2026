@@ -1,0 +1,18 @@
+﻿# C++ compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Temporary files
+tempCodeRunnerFile.cpp
+*.tmp
+
+# IDE settings
+.vscode/*
+!.vscode/tasks.json
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
